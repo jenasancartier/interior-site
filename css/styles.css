@@ -1,5 +1,19 @@
-.column {
+.column1,
+.column2,
+.column3 {
   width: 300px;
   float: left;
   margin: 100px;
+}
+
+.column1 {
+  background-color: lightblue;
+}
+
+.column2 {
+  background-color: lightgreen;
+}
+
+.column3 {
+  background-color: lightyellow;
 }
